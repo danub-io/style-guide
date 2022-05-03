@@ -1,0 +1,134 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0 10%;
+  }
+  
+
+  .container {
+    border: 1px solid black;
+    border-top: 0;
+    padding: 0 0 10px 0;
+    margin: 10px auto;
+  }
+  
+  .color-container {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .color-panel {
+    display: inline-block;
+    vertical-align: middle;
+    width: 32%;
+    margin: 2px 0;
+  }
+  
+  .color-1 {
+    background-color: #4cbfa6;
+    color: white;
+  }
+  
+  .color-2 {
+    background-color: #f6ebf4;
+    color: black;
+  }
+  
+  .color-3 {
+    background-color: #482673;
+    color: white;
+  }
+  
+  .color-4 {
+    background-color: #ed0b70;
+    color: white;
+  }
+
+  .color-5 {
+    background-color: #301008;
+    color: white;
+  }
+
+  .color-6 {
+    background-color: #DCE1E3;
+    color: black;
+  }
+ 
+  .font-panel {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 10px 0 10px;
+  }
+
+  .font-panel p {
+    margin-top: 0;
+  }
+  
+  .font-label {
+    font-size: 20px;
+    text-decoration: underline;
+  }
+  
+  .regular {
+    font-style: normal;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .bold {
+    font-weight: 700;
+  }
+  
+  .nunito-sans {
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  
+  .source-code-pro {
+    font-family: 'Source Code Pro', monospace;
+  }
+  
+  .poppins {
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .arial {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Nunito Sans', sans-serif;
+    vertical-align: top;
+    margin: 2px 0;
+    padding: 0 10px 0 10px;
+  }
+  
+  .text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    vertical-align: top;
+    margin: 2px 0;
+    padding: 0 10px 0 10px;
+  }
+
+  .text-panel h3 {
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    vertical-align: top;
+    margin: 2px 0;
+    padding: 0 10px 0 10px;
+  }
+  
+  .text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    vertical-align: top;
+    margin: 2px 0;
+    padding: 0 10px 0 10px;
+  }
